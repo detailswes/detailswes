@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.svg" alt="Wesley — Full Stack Developer" width="100%"/>
+  <img src="github-banner-no-wesley.svg" alt="Wesley — Full Stack Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hey everyone 👋</h1>
