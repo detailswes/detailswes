@@ -2,7 +2,7 @@
   <img src="github-banner.svg" alt="Wesley — Full Stack Developer" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Wesley</h1>
+<h1 align="center">Hey everyone 👋</h1>
 <h3 align="center">A Passionate Full-Stack Developer with 10+ Years of Experience</h3>
 
 <p align="center">
@@ -18,7 +18,6 @@
 - 🔄 My **flexible nature** has always been a plus — I can learn new systems very fast and adapt to virtually any working environment
 - 🚀 The combination of my **programming, communication and management skills** have helped me to successfully deliver projects on time with high quality
 - 💬 Ask me about **JavaScript, React, Node.js, PHP/Laravel, Python, Cloud & DevOps**
-- ⚡ Fun fact: *"If I cannot do great things, I can do small things in a great way."*
 
 ---
 
@@ -65,25 +64,6 @@
 
 ---
 
-## ❤️ Let's Get Connected:
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://YOUR_WEBSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -93,7 +73,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=detailswes&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
 
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=detailswes&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&hide_border=true&area=true&area_color=6EE7B720" />
 
 </div>
