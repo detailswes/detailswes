@@ -1,0 +1,107 @@
+<svg width="1280" height="420" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>GitHub profile banner — Full Stack Developer</title>
+<desc>Dark professional banner with code aesthetic, name, title, and tech stack icons</desc>
+
+<!-- Background -->
+<rect width="680" height="280" fill="#0d1117" rx="12"/>
+
+<!-- Subtle grid lines -->
+<line x1="0" y1="56" x2="680" y2="56" stroke="#21262d" stroke-width="0.5"/>
+<line x1="0" y1="112" x2="680" y2="112" stroke="#21262d" stroke-width="0.5"/>
+<line x1="0" y1="168" x2="680" y2="168" stroke="#21262d" stroke-width="0.5"/>
+<line x1="0" y1="224" x2="680" y2="224" stroke="#21262d" stroke-width="0.5"/>
+<line x1="85" y1="0" x2="85" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="170" y1="0" x2="170" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="255" y1="0" x2="255" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="340" y1="0" x2="340" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="425" y1="0" x2="425" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="510" y1="0" x2="510" y2="280" stroke="#21262d" stroke-width="0.5"/>
+<line x1="595" y1="0" x2="595" y2="280" stroke="#21262d" stroke-width="0.5"/>
+
+<!-- Left glow accent -->
+<ellipse cx="60" cy="140" rx="120" ry="100" fill="#1f6feb" fill-opacity="0.08"/>
+
+<!-- Right glow accent -->
+<ellipse cx="620" cy="140" rx="120" ry="100" fill="#7c3aed" fill-opacity="0.07"/>
+
+<!-- Top-left: terminal-style code block -->
+<rect x="36" y="36" width="220" height="80" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.8"/>
+<circle cx="52" cy="52" r="5" fill="#ff5f57"/>
+<circle cx="66" cy="52" r="5" fill="#febc2e"/>
+<circle cx="80" cy="52" r="5" fill="#28c840"/>
+<text x="48" y="76" font-family="monospace" font-size="11" fill="#58a6ff">const</text>
+<text x="85" y="76" font-family="monospace" font-size="11" fill="#e6edf3"> dev =</text>
+<text x="48" y="92" font-family="monospace" font-size="11" fill="#7ee787">""</text>
+<text x="110" y="92" font-family="monospace" font-size="11" fill="#8b949e">// 10+ yrs</text>
+
+<!-- Main name text -->
+<text x="340" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" fill="#e6edf3" letter-spacing="1"></text>
+
+<!-- Underline accent -->
+<rect x="240" y="116" width="200" height="2.5" fill="#1f6feb" rx="1.5"/>
+
+<!-- Title -->
+<text x="340" y="148" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#8b949e" letter-spacing="2">FULL STACK DEVELOPER</text>
+
+<!-- Divider dots -->
+<circle cx="295" cy="163" r="2" fill="#30363d"/>
+<circle cx="340" cy="163" r="2" fill="#58a6ff"/>
+<circle cx="385" cy="163" r="2" fill="#30363d"/>
+
+<!-- Experience badge -->
+<rect x="270" y="174" width="140" height="26" fill="#1f6feb22" rx="13" stroke="#1f6feb" stroke-width="0.8"/>
+<text x="340" y="191" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#58a6ff">10+ Years Experience</text>
+
+<!-- Tech icons row -->
+<rect x="68" y="218" width="32" height="32" fill="#f7df1e" rx="4"/>
+<text x="84" y="239" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">JS</text>
+
+<rect x="112" y="218" width="32" height="32" fill="#3178c6" rx="4"/>
+<text x="128" y="239" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">TS</text>
+
+<rect x="156" y="218" width="32" height="32" fill="#20232a" rx="4" stroke="#61dafb" stroke-width="0.8"/>
+<text x="172" y="236" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="700" fill="#61dafb">⚛</text>
+<text x="172" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="7" fill="#61dafb">React</text>
+
+<rect x="200" y="218" width="32" height="32" fill="#43853d" rx="4"/>
+<text x="216" y="236" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Node</text>
+<text x="216" y="246" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">.js</text>
+
+<rect x="244" y="218" width="32" height="32" fill="#777bb3" rx="4"/>
+<text x="260" y="239" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">PHP</text>
+
+<rect x="288" y="218" width="32" height="32" fill="#ff2d20" rx="4"/>
+<text x="304" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Lara-</text>
+<text x="304" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">vel</text>
+
+<rect x="332" y="218" width="32" height="32" fill="#14354c" rx="4"/>
+<text x="348" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Py-</text>
+<text x="348" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffd43b">thon</text>
+
+<rect x="376" y="218" width="32" height="32" fill="#00618a" rx="4"/>
+<text x="392" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">My-</text>
+<text x="392" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#f29111">SQL</text>
+
+<rect x="420" y="218" width="32" height="32" fill="#4ea94b" rx="4"/>
+<text x="436" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Mon-</text>
+<text x="436" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">goDB</text>
+
+<rect x="464" y="218" width="32" height="32" fill="#2496ed" rx="4"/>
+<text x="480" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Doc-</text>
+<text x="480" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">ker</text>
+
+<rect x="508" y="218" width="32" height="32" fill="#232f3e" rx="4"/>
+<text x="524" y="237" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ff9900">AWS</text>
+<text x="524" y="247" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#ffffff">Cloud</text>
+
+<rect x="552" y="218" width="32" height="32" fill="#f05032" rx="4"/>
+<text x="568" y="239" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">Git</text>
+
+<!-- Bottom border accent -->
+<rect x="36" y="267" width="608" height="2" fill="#1f6feb" rx="1" fill-opacity="0.5"/>
+
+<!-- Top right: status badge -->
+<rect x="500" y="36" width="148" height="32" fill="#161b22" rx="6" stroke="#238636" stroke-width="0.8"/>
+<circle cx="516" cy="52" r="4" fill="#3fb950"/>
+<text x="527" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#3fb950">Open to Work</text>
+</svg>
