@@ -1,5 +1,5 @@
-<img width="415" height="141" alt="image" src="https://github.com/user-attachments/assets/e2bf2c32-4837-4a09-8c1d-e4205df6409f" /><p align="center">
-  <img src="github_banner.svg" alt="Full Stack Developer" width="100%"/>
+<p align="center">
+  <img src="main-banner.png" alt="Full Stack Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hey everyone 👋</h1>
@@ -70,8 +70,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=detailswes&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=detailswes&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&hide_current_streak=true" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=detailswes&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&hide_border=true&area=true&area_color=6EE7B720" />
 
