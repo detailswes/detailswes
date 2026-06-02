@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="github-banner-no-wesley.svg" alt="Wesley — Full Stack Developer" width="100%"/>
+<img width="415" height="141" alt="image" src="https://github.com/user-attachments/assets/e2bf2c32-4837-4a09-8c1d-e4205df6409f" /><p align="center">
+  <img src="github_banner.svg" alt="Full Stack Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hey everyone 👋</h1>
