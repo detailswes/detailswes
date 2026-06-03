@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Full Stack Developer" width="100%"/>
+  <img src="main_banner.png" alt="Full Stack Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hey everyone 👋</h1>
@@ -17,7 +17,6 @@
 - 🌍 I have encountered a number of different **projects and positions** across my career
 - 🔄 My **flexible nature** has always been a plus — I can learn new systems very fast and adapt to virtually any working environment
 - 🚀 The combination of my **programming, communication and management skills** have helped me to successfully deliver projects on time with high quality
-- 💬 Ask me about **JavaScript, React, Node.js, PHP/Laravel, Python, Cloud & DevOps**
 
 ---
 
