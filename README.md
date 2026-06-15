@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main_banner.png" alt="Full Stack Developer" width="100%"/>
+  <img src="banner.png" alt="Full Stack Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hey everyone 👋</h1>
